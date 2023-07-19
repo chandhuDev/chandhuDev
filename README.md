@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://twitter.com/chandhu" target="blank"><img src="https://img.shields.io/twitter/follow/chandhu?logo=twitter&style=for-the-badge" alt="chandhu" /></a> </p>
 <img align="right" width="400" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on [Aview International](https://aviewint.com/)
+- 🔭 I’m currently working at [Aview International](https://aviewint.com/)
 
 - 🌱 I’m currently learning **Kubernetes , Edge Computing and Automation**
 
