@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **Nhost**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-chandhudev.vercel.app/](https://portfolio-chandhudev.vercel.app/)
+- 👨‍💻 All of my projects are available at [chandhu.com/](https://chandhu.vercel.app/)
 
 - 📝 I regularly write articles on [https://chandhu.hashnode.dev/](https://chandhu.hashnode.dev/)
 
